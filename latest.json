@@ -3,13 +3,19 @@
         "Windows": {
             "major": 15,
             "minor": 6,
-            "revision": 3,
+            "revision": 4,
             "url": "https://www.dropbox.com/s/900p1opzdi84xou/CuraDeskbox.exe?dl=0"
         },
+        "Linux": {
+            "major": 15,
+            "minor": 6,
+            "revision": 4,
+            "url": "https://www.dropbox.com/s/p1s0c562j72k4vq/Deskbox.dmg?dl=0"
+        },        
         "Darwin": {
             "major": 15,
             "minor": 6,
-            "revision": 3,
+            "revision": 4,
             "url": "https://www.dropbox.com/s/p1s0c562j72k4vq/Deskbox.dmg?dl=0"
         }
     }
